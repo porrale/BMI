@@ -7,13 +7,7 @@ export default function Home() {
       <Title>Hola mundo</Title>
       <h1>Hola Mundo</h1>
       <Counter />
-      <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
-        </a>{" "}
-        to learn how to build SolidStart apps.
-      </p>
+
     </main>
   );
 }
